@@ -1,0 +1,327 @@
+--------------------------------------------------
+Core Dependencies
+- @discordjs/voice: 0.7.4
+- prism-media: 1.3.2
+
+Opus Libraries
+- @discordjs/opus: not found
+- opusscript: not found
+
+Encryption Libraries
+- sodium: not found
+- libsodium-wrappers: 0.7.9
+- tweetnacl: 0.14.5
+
+FFmpeg
+- version: 4.4-essentials_build-www.gyan.dev
+- libopus: yes
+--------------------------------------------------
+[30m[47m[sekaii/browser] command now avaible and registered![0m
+[32m[snh-search/builders] builded browser.js as asynchronised function.[0m
+[32m[snh-search/builders] builded bug.js as asynchronised function.[0m
+[35m[snh-create/deployement] deployed the creating functions![0m
+[35m[snh-create/deployement] snh-character builder is now "ready"![0m
+[32m[snh-search/builders] builded character-create.js as asynchronised function.[0m
+[32m[snh-search/builders] builded help.js as asynchronised function.[0m
+[32m[snh-search/builders] builded open-url.js as asynchronised function.[0m
+[snh-search/builder] asynchronised function declaring...
+[snh-search/builder] asynchronised function declared.
+[32m[snh-search/builders] builded ping.js as asynchronised function.[0m
+[35m[snh-create/deployement] user reply software deployed![0m
+[32m[snh-search/builders] builded send.js as asynchronised function.[0m
+[32m[snh-search/builders] builded super-idol.js as asynchronised function.[0m
+[34mStarted refreshing application (/) commands.[0m
+NaN << debug
+[33mwelcome to sekaii-no-hana apiih! connected from Montreal (Saint-Laurent) <3[0m
+[34mSuccessfully reloaded application (/) commands.[0m
+[sekaii-no-hana/service] Ready!
+[sekaii-no-hana/API & discord] Ready!
+Ready! Logged in as sekaii-no-hana-API#6254
+saubecity#3427 in #decompiling triggered an interaction.
+saubecity#3427 in #decompiling triggered an interaction.
+[36m[snh-commands/handler] reicieved request from command 921905571416928336 with id 921905571416928336 created at Wed Dec 29 2021 11:11:24 GMT-0500 (heure normale de l’Est nord-américain)[0m
+saubecity#3427 in #decompiling triggered an interaction.
+[31m[snh-options/select/handle] reicieved request from command undefined with id undefined created at Wed Dec 29 2021 11:11:28 GMT-0500 (heure normale de l’Est nord-américain)[0m
+the 9 kabe
+10
+toyotomi-seiji
+cadman-bella
+zara-adara
+tadashi-masaki
+[
+  [
+    [ [MessageButton], [MessageButton], [MessageButton] ],
+    [ [MessageButton], [MessageButton], [MessageButton] ],
+    [ [MessageButton], [MessageButton], [MessageButton] ],
+    [ [MessageButton], [MessageButton], [MessageButton] ],
+    [ [MessageButton], [MessageButton] ]
+  ],
+  [
+    'toyotomi-seiji',
+    'cadman-bella',
+    'zara-adara',
+    'tadashi-masaki',
+    'kunio-nanako',
+    'tanomi-ayame',
+    'sato-reino',
+    'xena',
+    'suiken-mizuiro',
+    'mao-zedong'
+  ],
+  4,
+  'the 9 kabe'
+]
+saubecity#3427 in #decompiling triggered an interaction.
+undefined
+pass add-ch-list 0
+0
+passed by this :P
+the 9 kabe toyotomi-seiji
+[ 'the 9 kabe', 'toyotomi-seiji', 'male' ]
+saubecity#3427 in #decompiling triggered an interaction.
+[31m[snh-options/select/handle] reicieved request from command undefined with id undefined created at Wed Dec 29 2021 11:11:40 GMT-0500 (heure normale de l’Est nord-américain)[0m
+the 9 kabe << rank
+life of kunio-tojiro!=toyotomi-seiji!+the 9 kabe << debug
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{
+  key: 'define_as',
+  value: [ 'funny', 'positive', 'enthusiastic', 'cheerful', 'outgoing' ],
+  type: 'array'
+}
+{
+  key: 'emotional_stuff',
+  value: [
+    'nodejs-098-id:0312-fullname:funny;positive;outgoing;eut;cherrfull'
+  ],
+  type: 'array'
+}
+{ key: 'passions', value: [], type: 'array' }
+{
+  key: 'freinds-sees-him-as',
+  value: [ 'positive', 'fun', 'determined', 'caring', 'helpful' ],
+  type: 'array'
+}
+{
+  key: 'stranger-sees-him-as',
+  value: [ 'savior', 'cool-headed', 'reactive', 'strong', 'positive' ],
+  type: 'array'
+}
+{ key: 'others', value: [], type: 'array' }
+[
+  {
+    key: 'define_as',
+    value: [ 'funny', 'positive', 'enthusiastic', 'cheerful', 'outgoing' ],
+    type: 'array'
+  },
+  {
+    key: 'emotional_stuff',
+    value: [
+      'nodejs-098-id:0312-fullname:funny;positive;outgoing;eut;cherrfull'
+    ],
+    type: 'array'
+  },
+  { key: 'passions', value: [], type: 'array' },
+  {
+    key: 'freinds-sees-him-as',
+    value: [ 'positive', 'fun', 'determined', 'caring', 'helpful' ],
+    type: 'array'
+  },
+  {
+    key: 'stranger-sees-him-as',
+    value: [ 'savior', 'cool-headed', 'reactive', 'strong', 'positive' ],
+    type: 'array'
+  },
+  { key: 'others', value: [], type: 'array' }
+]
+[
+  {
+    key: 'define_as',
+    value: [ 'funny', 'positive', 'enthusiastic', 'cheerful', 'outgoing' ],
+    type: 'array'
+  },
+  {
+    key: 'emotional_stuff',
+    value: [
+      'nodejs-098-id:0312-fullname:funny;positive;outgoing;eut;cherrfull'
+    ],
+    type: 'array'
+  },
+  { key: 'passions', value: [], type: 'array' },
+  {
+    key: 'freinds-sees-him-as',
+    value: [ 'positive', 'fun', 'determined', 'caring', 'helpful' ],
+    type: 'array'
+  },
+  {
+    key: 'stranger-sees-him-as',
+    value: [ 'savior', 'cool-headed', 'reactive', 'strong', 'positive' ],
+    type: 'array'
+  },
+  { key: 'others', value: [], type: 'array' }
+]
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{ key: 'with?', value: [ { event_brouth: 'fear' } ], type: 'array' }
+[ { key: 'with?', value: [ [Object] ], type: 'array' } ]
+[ { key: 'with?', value: [ [Object] ], type: 'array' } ]
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{ key: 'closest', value: [ 'Naoki', 'Aiko' ], type: 'array' }
+{
+  key: 'freinds',
+  value: [ 'aiko', 'Naoki', 'bella', 'tamo' ],
+  type: 'array'
+}
+{ key: 'love?', value: '', type: 'string' }
+{ key: 'major_spent_time', value: [ 'Aiko', 'Naoki' ], type: 'array' }
+{ key: 'share_secret_with?', value: [], type: 'array' }
+{
+  key: 'want_to_be_closer_to',
+  value: [ 'big_brother:javascript:used-value' ],
+  type: 'array'
+}
+[
+  { key: 'closest', value: [ 'Naoki', 'Aiko' ], type: 'array' },
+  {
+    key: 'freinds',
+    value: [ 'aiko', 'Naoki', 'bella', 'tamo' ],
+    type: 'array'
+  },
+  { key: 'love?', value: '', type: 'string' },
+  {
+    key: 'major_spent_time',
+    value: [ 'Aiko', 'Naoki' ],
+    type: 'array'
+  },
+  { key: 'share_secret_with?', value: [], type: 'array' },
+  {
+    key: 'want_to_be_closer_to',
+    value: [ 'big_brother:javascript:used-value' ],
+    type: 'array'
+  }
+]
+[
+  { key: 'closest', value: [ 'Naoki', 'Aiko' ], type: 'array' },
+  {
+    key: 'freinds',
+    value: [ 'aiko', 'Naoki', 'bella', 'tamo' ],
+    type: 'array'
+  },
+  { key: 'love?', value: '', type: 'string' },
+  {
+    key: 'major_spent_time',
+    value: [ 'Aiko', 'Naoki' ],
+    type: 'array'
+  },
+  { key: 'share_secret_with?', value: [], type: 'array' },
+  {
+    key: 'want_to_be_closer_to',
+    value: [ 'big_brother:javascript:used-value' ],
+    type: 'array'
+  }
+]
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{
+  key: 'with',
+  value: [ "japan's self-dicatorship", '#FreeHK' ],
+  type: 'array'
+}
+{
+  key: 'places?',
+  value: [
+    'flowercorps, a nodejs package: https://www.npmjs.com/package/flower-power-api'
+  ],
+  type: 'array'
+}
+[
+  {
+    key: 'with',
+    value: [ "japan's self-dicatorship", '#FreeHK' ],
+    type: 'array'
+  },
+  {
+    key: 'places?',
+    value: [
+      'flowercorps, a nodejs package: https://www.npmjs.com/package/flower-power-api'
+    ],
+    type: 'array'
+  }
+]
+[
+  {
+    key: 'with',
+    value: [ "japan's self-dicatorship", '#FreeHK' ],
+    type: 'array'
+  },
+  {
+    key: 'places?',
+    value: [
+      'flowercorps, a nodejs package: https://www.npmjs.com/package/flower-power-api'
+    ],
+    type: 'array'
+  }
+]
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{ key: 'story', value: '', type: 'string' }
+{ key: 'members', value: [ 'mom', 'dad', 'mizuki' ], type: 'array' }
+{ key: 'decreasead_parents', value: 1, type: 'number' }
+[
+  { key: 'story', value: '', type: 'string' },
+  { key: 'members', value: [ 'mom', 'dad', 'mizuki' ], type: 'array' },
+  { key: 'decreasead_parents', value: 1, type: 'number' }
+]
+[
+  { key: 'story', value: '', type: 'string' },
+  { key: 'members', value: [ 'mom', 'dad', 'mizuki' ], type: 'array' },
+  { key: 'decreasead_parents', value: 1, type: 'number' }
+]
+[ 'the 9 kabe', 'toyotomi-seiji', 'life of kunio-tojiro' ]
+saubecity#3427 in #decompiling triggered an interaction.
+[31m[snh-options/select/handle] reicieved request from command undefined with id undefined created at Wed Dec 29 2021 11:11:52 GMT-0500 (heure normale de l’Est nord-américain)[0m
+the 9 kabe
+saubecity#3427 in #decompiling triggered an interaction.
+kunio-tojiro << isCurrentDebugging
+starting to scan linking...
+[scanKeys/sekaii-no-hana] finds more value, linking the properties to a variable...
+{ key: 'closest', value: [ 'Naoki', 'Aiko' ], type: 'array' }
+{
+  key: 'freinds',
+  value: [ 'aiko', 'Naoki', 'bella', 'tamo' ],
+  type: 'array'
+}
+{ key: 'love?', value: '', type: 'string' }
+{ key: 'major_spent_time', value: [ 'Aiko', 'Naoki' ], type: 'array' }
+{ key: 'share_secret_with?', value: [], type: 'array' }
+{
+  key: 'want_to_be_closer_to',
+  value: [ 'big_brother:javascript:used-value' ],
+  type: 'array'
+}
+[
+  { key: 'closest', value: [ 'Naoki', 'Aiko' ], type: 'array' },
+  {
+    key: 'freinds',
+    value: [ 'aiko', 'Naoki', 'bella', 'tamo' ],
+    type: 'array'
+  },
+  { key: 'love?', value: '', type: 'string' },
+  {
+    key: 'major_spent_time',
+    value: [ 'Aiko', 'Naoki' ],
+    type: 'array'
+  },
+  { key: 'share_secret_with?', value: [], type: 'array' },
+  {
+    key: 'want_to_be_closer_to',
+    value: [ 'big_brother:javascript:used-value' ],
+    type: 'array'
+  }
+]

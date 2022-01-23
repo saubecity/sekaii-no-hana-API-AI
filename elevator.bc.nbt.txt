@@ -1,0 +1,13 @@
+at blockchain.new ...=> .workspace.elvator
+elevator.capacity.max ...=> 850
+elevator.users.max ...=> 15
+at elevator
+if (user.weigth == 50 && .contenair.weigth == 15) |> (box + user).max.num
+
+.users.weigth |> 750kg!
+.user.weigth |> 50kg
+.box.weigth |> 180kg
+
+
+at new $count
+

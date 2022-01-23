@@ -1,0 +1,647 @@
+{
+	"protagonist": {
+		"sato-naoki": {
+			"life of sato-naoki": {
+				"identity": {
+					"story": "Naoki describes himself as smart, determined, reflective, ambitious and cool headed.\nHis best friends see him as honest, compassionate, courageous, kind hearted and intelligent.\nOther members of the corps (co-workers) see him as smart, easy-going, calm spirited, discerning and cool headed.\nA stranger would see him as strong, brave, savior, kind hearted, lonely. \nPeople don't see him as determined and passionate as he does. \nLonely is wrong since he has a few people he is pretty close to such as Bella, Tamo, Tojiro and Aiko. \nThey see him like that because he isn't very talktive and the type to go out and hangout with people.\nHe might seem calm spirited or cool headed though he has a raging anger when it comes to the people he loves and cares about.\nThough nothing else since Naoki is pretty predictable and has a visible/describable personality.thus Naoki doesent intend (isn't aware of these asumptions). \nNaoki is pretty surprised when people call him smart, he feels very flattered  and happy.",
+					"link": [{
+						"define_as": ["smart", "determined", "ambitious", "cool-headed"],
+						"emotional_stuff": ["nodejs-098-id:0312-fullname:lonely"],
+						"passions": [],
+                        "freinds-sees-him-as": ["honest", "compassionate", "courageous", "kind-hearted", "intelligent"],
+                        "stranger-sees-him-as": ["brave", "kind-hearted", "lonely"],
+						"others": []
+					}]
+				},
+				"backstory & wound": {
+					"story": "The death of the parents of the young Naoki, is the unfortunate event which brought the fear to Naoki, this event totally turned his life upside down and he was sent on a new path revenge, this new path made him give up on some things 'pursue what he really wants' and  he lost the joy of truly living. Naoki feels very flawed for not being able to protect his parents at that time... Naoki  in his life time is gonna lose many people dear to him, this time he won't fall in the hands of revenge and overcome reality.",
+					"link": [{
+						"with?": [{
+                            "event_brouth": "fear"
+                        }]
+					}]
+				},
+				"relationship": {
+					"story": "The closest people to Naoki   are    aiko and tojiro   he may have  other people dear to him, people who helped him grow  like Bella and tamo but the closest people to Naoki are for sure aiko and tojiro, they went through a very long journey together, backing up each other, sharing smiles and tears , fighting together, wining together and   to finish with loving each other .  Naoki on the other part really looks up to his older brother sato reino  and  really wants  to be closer to him. Despite that Naoki  is the type  to wait for someone to approach him and not  make the first move. Despite Naoki's introverted nature he is the type to open up quickly thanks to his great sense of people. Naoki is usually attracted to people with very strong personalities, he may also like to be around fun people who embraces simplicity  since they can attract his attention. Naoki is definitely satisfied with his current relation ships and doesent  ask more.  Naoki tends to be very vulnerable around aiko and  can happen to show his sensible side to her  he has a very strong bond with her since they can relate in many ways.Naoki tends to try and avoid  Yamato a former zenko, Naoki out of pure instinc gets very bad vibes out of him and feels very irritated around him so he rather avoid him.Naoki is usually turned off by ignorant people, people who only care about their own little persona . If there is one persson naoki wants to reapear in his life its definitely torture, the one who murdered Naoki's parents, for the simple reason 'revenche',Naoki would definitely not want torture to reapear in his life after defeating him.",
+					"link": [{
+						"closest": ["aiko", "tojiro"],
+						"freinds": ["aiko", "tojiro", "bella", "tamo"],
+						"love?": "",
+						"major_spent_time": ["aiko", "tojiro"],
+						"share_secret_with?": [],
+                        "want_to_be_closer_to": ["big brother"]
+					}]
+				},
+				"education & finances": {
+					"story": "Naoki has a great sense of analyzing and takes his time to get the job done, you could say he is a bit smarter than average. At his work place (The Flowercorps HQ) there is a library where Naoki likes to spend his time and widen his knowledge. He's clever and thinks well before acting. His job is serving flowertopia's people as a member of the corps. His knowledge definitely helps him out, some times the members get asked to carry out a mission that indeed requires thinking and strategy. He is pretty comfortable with his job and has breaks from missions from time to time. He does in fact only have that as a job since he is financially supported by Bella. Naoki is very satisfied with his work since it was one of his desires to join the corps.",
+					"link": [{
+						"with": ["japan's self-dicatorship", "free-nc"],
+						"places?": ["flowercorpsHQ/chingchongchangching"]
+					}]
+				},
+				"family": {
+					"story": "Naoki's parents are presently both deceased though he still has his older brother. He and his older brother are very distant. They got distant after the death of their parents. Naoki is a single teenager. We're not sure but we're thinking of getting him married to Aiko at the end of the story. There isn't much going on with his family/not really interesting, since they died when he was pretty young. You could say he had a happy and normal childhood. The parents were loving and caring to both their children equally. Even though they we're quite busy, the times they have with Naoki and Reino are important to them. 'You're gonna be a strong boy when you grow up' <! javascript illigal quotes in string removed !> is a sentence they often told Naoki. Reino used to take care of Naoki when their parents weren't home. Reino left Naoki in Bella's hands later on to get stronger and reach his goals without having to take care of his younger brother, he felt as if he was a burden to him. The bothers didn't have a strong bond or anything though.",
+					"link": [{
+						"story": "",
+						"members": [],
+                        "decreasead_parents": true
+					}]
+				}
+			},
+			"personality": {
+				"emotional range": {
+					"story": "Naoki is not emotional, yet he isn't the type to hide his feelings either. His body languages shifts depending on what he's feeling, even his speech and the words he chooses to speak. It's quite easy to make Naoki mad, especially when you know what triggers him. If anything concerning family or friends, he'd speak about his goal/desire. Naoki is easily happy if he's doing or is around stuff he loves. He shows anxiety when he's clueless or doesn't know what to do, when hes letting people down. You can see Naoki's anger when he grunts",
+					"link": [{
+						"what_he_loves?": [],
+						"fellings?": [],
+						"emotional": false,
+						"hiding_feelings": false,
+						"get-easely": ["mad"]
+					}]
+				},
+				"skills & talents": {
+					"story": "Naoki tends to usually  rely on his tenpo, speed and agility, and is a pro at solving problemes and finding clues  and has talent in finding enemies weak points through fighting , he has that one unique talent wich barely anyone  can achieve  he may have achieved that power by luck but it still makes him unique, Naoki has a second tenpo form the gold ice tenpo wich is basically a upgraded version of his ice tenpo.",
+					"link": [{
+						"skills": ["speed", "agility", "solving problemes"],
+						"talents": ["finding enemies"],
+						"emotional_integer": 0
+					}]
+				}
+			},
+			"characteristics": {
+				"physical": {
+					"physics": {
+						"story": "Naoki is a 17-18 (throught the manga) male, ethnicity not really chosen since he's from an another world (Offelia is an island with multiple villages, he is from the flower shaped village called Flowertopia) but we see him as japanese. He has black hair and brown eyes, average body build, not skinny nor fat. Alvina skin tone, height of 5'5 and weights 136 pounds. Snowflake shaped birthmark a bit above his left hip. He wears the corps' Novice level uniform on duty (looks a bit different than the uniform of the higher classes) and casual clothes off duty. He carries around his katana. He's really attached to a pendant that had been given to him by his parents. (We're thinking of having the pendant break at some point)",
+                        "heigth": 165,
+						"heigth-inch": "5'5",
+                        "experimental/weigth": 61.6,
+                        "decreptated/age": 17,
+						"link": [{
+							"user_phs <decreptated>": "",
+							"tags": [],
+							"cool": 67,
+							"cute": true,
+							"hot": false,
+							"attractive": false,
+							"skinny": 50,
+							"fat": 50
+						}]
+					}
+
+				},
+				"powers/special-abilities": {
+					"powers": {
+						"link": [{
+							"powers": {
+								"tenpo dancing igloo": {
+									"name": "tenpo dancing igloo",
+									"name_jp": "踊るイグルー",
+									"description/effects": "generates enough energy to create a powerful single concentrated slash.",
+									"image": "https://media.discordapp.net/attachments/815983905923399751/912058724896616458/unknown.png?width=450&height=410"
+								},
+								"tenpo running clouds road": {
+									"name": "tenpo running clouds road",
+									"name_jp": "ランニングクラウドロード" ,
+									"description/effects": "by dashing forward in a momentum speed the swordsmen creates ice blocks that grow out of the ground then gives a rotating cold swing",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								},
+								"tenpo desintegrating ice wave": {
+									"name": "tenpo desintegrating ice wave",
+									"name_jp": "崩壊する氷の波",
+									"description/effects":"with a momentum speed the swordsmen runs while summoning ice wherever his foot stomps on then liberates multipel swings that will consist in Desintegrating whatever it hits",
+									"image": "https://cdn.discordapp.com/attachments/834306239198527489/838154390275096606/sword-slash-png-97-images-in-collection-page-3-sword-slash-png-279_183.png"
+								},
+								"tenpo striking freezed fish": {
+									"name": "tenpo striking freezed fish",
+									"name_jp": "凍った魚を打つ",
+									"description/effects": "with a really strong jump creates a huge freezed wave  then attacks the enemy or enemies with multiple freezing strikes with a fish fashion style",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								}
+							},
+							"linked_chr": []
+						}]
+					},
+					"special-abilities": {
+						"story": "",
+						"link": [{
+							"special-abilities": [],
+							"temorary-special-abilities": [],
+							"temporary-gone-special-abilities": [],
+							"removed-special-abilities": [],
+							"temporary-removed-special-abilities": []
+						}]
+					}
+				},
+				"mentally/inside": {
+					"status": {
+						"depressed": false,
+						"lonely": false,
+						"freindly": true,
+                        "single": true
+					},
+					"secrets": {
+						"secrets": [],
+						"story": "Naoki's biggest secret is that he fears someone he has never met, Torture. He rather's keep silent about it around the corps. This fear is very important in Naoki's development it helps him grow stronger. Every step forward Naoki takes, he thinks back to Torture. This secret is a sort of humiliation: he would feel emberassed if people knew he was afraid of someone he hasn't encountered, and determination because it pushes him to become stronger. Aiko and Tojiro share their secrets with Naoki so he is a secret keeper, though at some point he will also reveal his big secret to them. (We didn't think about Aiko and Tojiro's secrets yet) They do trust Naoki with their secrets though they did tell him to not speak about them to people. Naoki isn't the type to speak about other people and he avoids that so he keeps it to himself. Naoki does react when he hears Torture's name; maybe a bit of shaking, a flinch and change of expression. < that's also how Tojiro and Aiko pushed him into telling them the secret (one of them said Torture's name and they noticed his reaction)",
+						"link": [{
+							"shared-secrets": ["fear of torture"],
+							"shared-secrets-id": ["anime.protagonist['sato-naoki'].characteristics['mentally/inside'].secrets.story"],
+							"shared-secrets-with": ["aiko", "tojiro"],
+							"request-sharing-but-refused": 0,
+							"trust-more": "",
+							"trust-least": "Torture"
+						}]
+					},
+					"want/needs/desire": {
+						"story": "Naoki wants to form as many tenpos (magical abilities) as he can, wants to become more social and wants to be recognized for his guitar playing and a bit more money for himself. He is lacking social skills mostly. He also realized since his main goal is revenge that he won't be able to go on with music. He hopes to end Torture's evil and dreams to be a guitarist. He never dares wish for chaos in Flowertopia. His music dream is a bit hard to pursue since he's now a Novice at the corps and is busy enough with that and his goal. If he could make anything appear it would be his parents, other than people he'd want lady Tamo's signature sukiyaki dish. Encouragement and care definitely make Naoki feel at his best mostly verbal affection. His life goal is revenge, that's all he sees at first.",
+						"wants": ["many tenpos"],
+						"needs": [],
+						"desire": [],
+						"links": [{
+							"experimental/chr-related": ["torture"]
+						}]
+					},
+					"interest": {
+						"story": "Naoki has specific interest in guitar, reading and training to get stronger. Not much people specially knows about these hobbies since he usually isolates himself from others , he usually likes to do these things alone since it makes him feel more relaxed and peac full. Naoki is more introverted and relieves himself when playing guitar and making music",
+						"link": [{
+							"interest-array": ["guitar", "reading", "training", "get stronger"],
+							"share-hobbies": "",
+							"message-to-api-users": "user `link.length + 1` to get numbers of interest"
+						}]
+					}
+				},
+				"stress and pressure": {
+					"story": "Naoki is pretty knowledgeable about many subjects and thus is able to face many kind of challenges he doesent embrace them much  as it isn't something he is into, he faces challenges when he is in a situation that forces him to face them. When under pressure he can happen to take the lead of himself  and follow his own emotional desire  and so falters,  when feeling emotional strains naoki  happens to lash out his emotions anger, sadness. He can snap easily when stressed, his breaking point is his parents anything related to his parents is very likely to emotionally strain him. He very likely be get emotionally active if it's something about his family.",
+					"stressed-easely": false,
+					"blood-pressure?": false,
+					"link": [{
+						"stress-type-decreptated": [],
+						"linked with": ["saubecity"]
+					}]
+				}
+			},
+			"about me!": {
+				"name": "sato-naoki",
+				"age": 17,
+				"gender": "male",
+                "story": "",
+				"prefix": "him",
+                "link": [{
+                    "linking-relation": []
+                }]
+			},
+			"others": {}
+		},
+		"kunio-tojiro": {
+			"life of kunio-tojiro": {
+				"identity": {
+					"story": "Tojiro would describe himself as; funny, positive, enthusiastic, cheerful and outgoing. His best friends would describe him as; positive, fun, determined, caring, helpful. His co-workers at the corps see him as; helpful, reactive, enthusiastic, easy-going and ambitious. A stranger sees him as simply; savior, cool headed, reactive, strong, positive. Tojiro's point of view of himself doesn't differ from others point of view about himself as he is very predictable and obvious, other people happen to assume that he was adopted by Nanako because of his tendency to be in common places, but is in fact her own son, he is pretty aware of that but doesn't really mind it, he like that Other people also seem him as positive and cheerful as he likes cheering up his friends. That makes him happy of course.",
+					"link": [{
+						"define_as": ["funny","positive","enthusiastic","cheerful","outgoing"],
+						"emotional_stuff": ["nodejs-098-id:0312-fullname:funny;positive;outgoing;eut;cherrfull"],
+						"passions": [],
+                        "freinds-sees-him-as": ["positive","fun","determined","caring","helpful"],
+                        "stranger-sees-him-as": ["savior","cool-headed","reactive","strong","positive"],
+						"others": []
+					}]
+				},
+				"backstory & wound": {
+					"story": "Tojiro who fears of being unloved is more coming from his backstory more than anything. Feeling the dread of your brother leaving you for evil doings feels pretty weird doesn't it but for tojiro at his young age was more feeling like his brother didn't love him and felt very alone since then but as he grew up he decided to  defeat his brother and stop him from wrong doings  he wasn't searching revenge but wanted to get his brother out of darkness.",
+					"link": [{
+						"with?": [{
+                            "event_brouth": "fear"
+                        }]
+					}]
+				},
+				"relationship": {
+					"story": "Tojiro is closest to his 2 friends Naoki and Aiko, after going in so many adventures together they learned to trust each other and love each other and created an unbreakable bond. Though he really wish to be closer to his older brother if things were different. Tojiro is the type to make the first move  and opens up pretty quickly thanks to his good sense about people, he is mostly attracted to his opposites or people that can really fit his energy, he also likes to have people that could hear him out in some situation and take him in consideration.  People who tend to always be negative and depressive really turn him off as it doesn't fit his energy at all, he really wants to see his brother again as he wants to defeat him.",
+					"link": [{
+						"closest": ["Naoki", "Aiko"],
+						"freinds": ["aiko", "Naoki", "bella", "tamo"],
+						"love?": "",
+						"major_spent_time": ["Aiko", "Naoki"],
+						"share_secret_with?": [],
+                        "want_to_be_closer_to": ["big_brother:javascript:used-value"]
+					}]
+				},
+				"education & finances": {
+					"story": "Tojiro is quite educated and was taught proper manners as his parents are still present. He isn't that intelligent as he reacts without thinking most of the time and is pretty clumsy. He mainly follows his instincts. He is kind of slow and dense though he is more of a vocal learner. He was taught by his parents but isn't as much experienced as them. He never really aimed for knowledge and was fine with himself. He has grown to admire swords men and always dreamed of being one and so, is pretty satisfied after reaching this goal and working with the flower corps of Flowertopia.",
+					"link": [{
+						"with": ["japan's self-dicatorship", "#FreeHK"],
+						"places?": ["flowercorps, a nodejs package: https://www.npmjs.com/package/flower-power-api"]
+					}]
+				},
+				"family": {
+					"story": "Tojiros two parents are still currently alive, his mother being a very healthy but on the other side tojiros father is a man touched by a disability and isn't able to accomplish much in his life. Tojiro is single, and tojiro has a older brother called mizuki, mizuki isn't around anymore because of past conflicts, tojiro had a very strong relation with his bro before the. Conflict but now are very distant. tojiro holds onto many different family values like respect for elders , kindness, compassion etc as he was taught by his mother. Tojiro was taught many things by his mother and she even educated him in a whole, his education is pretty on point and his mother is even the one who helped him display his talents freely.",
+					"link": [{
+						"story": "",
+						"members": ["mom", "dad", "mizuki"],
+                        "decreasead_parents": 1
+					}]
+				}
+			},
+			"personality": {
+				"emotional range": {
+					"story": "Tojiro in emotions is usually very obvious and so his feelings are expressed pretty straight forward and mostly when in happy conditions expresses it with gestures and movements. Quiet outwardly in emotions.",
+					"link": [{
+						"what_he_loves?": [],
+						"fellings?": [],
+						"emotional": false,
+						"hiding_feelings": false,
+						"get-easely": ["happy"]
+					}]
+				},
+				"skills & talents": {
+					"story": "Tojiro has many skills in wich are very handy to him in everyday life. He has the skill to easily adapt to many situations and has a dent in communication. He also has knack in integring groups of people wich is very handy. Tojiro has a deep talent in technology, not many people are aware of this talent as he barely displays this asset in front his comrades. He on the other hand has a very obvious skill in sociability  and of course everyone is aware of this talent of his, these talents don't display him  some type of embarrassment or pride  as he doesn't feel something particular as he believes it's a simple blessing from God.",
+					"link": [{
+						"skills": ["intergrating groups/communication", "technology"],
+						"talents": ["communication"],
+						"emotional_integer": 0
+					}]
+				}
+			},
+			"characteristics": {
+				"physical": {
+					"physics": {
+						"story": "Tojiro is a 17-18 (throught the manga) male, ethnicity half Japanese half american. Lives in a land called Offelia, Offelia is an island with multiple villages, he is from the flower shaped village called Flowertopia. He has blonde hair and green eyes, average body build, not skinny nor fat. Alvina skin tone,1 height of 5'7 and weights 137 pounds. He wears the corps' Novice level uniform on duty (looks a bit different than the uniform of the higher classes) and casual clothes off duty. He carries around his katana. Tojiro has a special talent All Tojiro's joints in his hands are double jointed",
+                        "heigth": 170.18,
+						"heigth-inch": "5'7",
+                        "experimental/weigth": 62.1,
+                        "decreptated/age": 17,
+						"link": [{
+							"user_phs <decreptated>": "",
+							"tags": [],
+							"cool": 77,
+							"cute": true,
+							"hot": false,
+							"attractive": true,
+							"skinny": 50,
+							"fat": 50
+						}]
+					}
+
+				},
+				"powers/special-abilities": {
+					"powers": {
+						"link": [{
+							"powers": {
+								"flattering hook": {
+									"name": "flattering hook",
+									"name_jp": "お世辞フック",
+									"description/effects": "this tenpo consist in aiming around him anything or anyone in his range and hit them with 3 scorching claws multiple times ",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								},
+								"clawing cyclone": {
+									"name": "clawing cyclone",
+									"name_jp": "サイクロンをかじる",
+									"description/effects": "as no discription has been provided, this power may suppose to create a high of wind capable of destruction ",
+									"image":"https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png",
+									"big_big_big_image": "https://cdn.discordapp.com/attachments/835606658901475338/860375139735830538/GAst9.png"
+								},
+								"hell's breaking claws": {
+									"name": "hell's breaking claws",
+									"name_jp": "地獄の壊れた爪",
+									"description/effects": "this tenpo consistance is to , in one shot harm the enemy very badly by using a really strong slash that gives the impression as if u broke in hell",
+									"image": "https://media.discordapp.net/attachments/815983905923399751/912073596392841237/unknown.png?width=410&height=410"
+								},
+								"eternal claw cage": {
+									"name": "eternal claw cage",
+									"name_jp": "永遠の爪ケージ",
+									"description/effects": "this tenpo consist in  closing in urself with ur oppenent in a really big cage this cage will close slowly till closing on the oppenent and killing him ,the ysteme of this technique is the more energy kunio has the fastest the cage closes the less energy he has the slowest will the cage close",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								},
+								"monster of death": {
+									"name": "monster of death",
+									"name_jp": "死の怪物",
+									"description/effects": "consist in turning kunio into a detructive bear",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								},
+								"external chinese nail": {
+									"name":"external chinese nail",
+									"name_jp": "总统的钉子",
+									"description/effects": "makes his nails extremely sharp",
+									"image": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/warning_26a0-fe0f.png"
+								}
+							}
+						}]
+					},
+					"special-abilities": {
+						"story": "",
+						"link": [{
+							"special-abilities": [],
+							"temorary-special-abilities": [],
+							"temporary-gone-special-abilities": [],
+							"removed-special-abilities": [],
+							"temporary-removed-special-abilities": []
+						}]
+					}
+				},
+				"mentally/inside": {
+					"status": {
+						"depressed": false,
+						"lonely": false,
+						"freindly": true,
+                        "single": true
+					},
+					"secrets": {
+						"secrets": [],
+						"story": "",
+						"link": [{
+							"shared-secrets": [],
+							"shared-secrets-id": [],
+							"shared-secrets-with": [],
+							"request-sharing-but-refused": 0,
+							"trust-more": "",
+							"trust-least": ""
+						}]
+					},
+					"want/needs/desire": {
+						"story": "Tojiro wants to become a strong swords men as he always admired them and be loved. Tojiro lacks focus skills and power to defeat his brother. He would never wish  pain for his loved ones  and he feels like becoming a swords men is quiet hard to pursue but he sticks to it as that's what he wants. If he could wave a magic  wand and make something appear of his likings it would probably his brother who resignated from baddoing and or one of his favourite video game. He feels better and full when he is surrounded by his loved ones in peace",
+						"wants": ["strongs swords"],
+						"needs": ["focus skills","power"],
+						"desire": ["never wish pain for loved one"],
+						"links": [{
+							"experimental/chr-related": ["mizuki"] 
+						}]
+					},
+					"interest": {
+						"story": "Tojiro's hobbies are mostly watching TV, horror movies and  loves impersonation he finds interest in fishing and also likes video games and sports. The people around him are quite aware of his hobbies as he is quite outgoing and most of the time invites some of his friends to come join him as he loves the company. He really enjoys eating such as it is the most regular thing in shops and likes porkbuns. He usually relaxes by watching TV or playing video games, it makes him forget the source of his stress and relieves him.",
+						"link": [{
+							"interest-array": ["TV", "horror movies", "loves impresonation", "video games", "sports"],
+							"share-hobbies": "quite",
+							"message-to-api-users": "user `link.length + 1` to get numbers of interest"
+						}]
+					},
+					"flaw-centric": {
+						"story": "Tojiro who sought to defeat his brother and resonate him to the good side  is backed up by a very bad habit of his wich can be recognized as a flaw. He is too compassionate, caring and too nice. These aspects allow him to easily give up and doesent reinforce his motivations. By the means of that he is too scared of not being able to finish what he started because of his weak resolve  and thus tries to hide it from others with his surroundings. Tojiro is also a bit too talkative and happens to expose most of his friends secret by pure accident  and cause fo that can cause high friction in his friend ships. When tojiro faces failure  he tends to lose his will and gives up pretty easily wich is a very detrimental thing about him."
+					}
+				},
+				"stress and pressure": {
+					"story": "Tojiro loves challenges and embraces them, when under Pressure  tojiro  mostly makes poor decisions and mistakes but that's because he isn't indulged enough to  handle some situations. Emotion strains he usually tries to follow old advices and tries to not freak out  and would try to lead himself in calm, when stressed  he pasifically just does what his mind tells him to at the moment  without thinking much.",
+					"stressed-easely": true,
+					"blood-pressure?": false,
+					"link": [{
+						"stress-type-decreptated": [],
+						"linked with": ["saubecity"]
+					}]
+				}
+			},
+			"about me!": {
+				"name": "kunio-tojiro",
+				"age": 17,
+				"gender": "male",
+                "story": "",
+                "link": [{
+                    "linking-relation": []
+                }]
+			},
+			"others": {}
+		},
+		"sumizu-aiko": {
+			"life of sumizu-aiko": {
+				"identity": {
+					"story": "Aiko would honestly describe herself as fun, neophiliac, feministic, determined and careful. Naoki and Tojiro would describe her as cool, a good listener/teller, mature and beautiful. A co-worker would describe her as mature, strong, capable, controlled and fancy. A stranger would describe her as outstanding, respectful, a good leader, kind and helpful. Aiko mostly tries to be a 'perfect girl' but when she gets close to you get to see her fun and adventurous side. Most of the things people see her as are accurate it's just that not many people know how she really is when she tries to be herself more. Aiko does intend to be seen this way and feels more safe and does appreciate the attention, she doesn't brag but she might 'show off' sometimes in an undirect way. She sometimes finds it a bit surprising when she is seen as controlled or mature because even if she is, she has a side of her that rarely comes out, panic with a mix of loss of mind. It makes her happy that people think that of her though.",
+					"link": [{
+						"define_as": ["fun", "neophiliac", "feministic", "determined", "careful"],
+						"emotional_stuff": ["nodejs-098-id:0312-fullname:funny;positive;outgoing;eut;cherrfull"],
+						"passions": [],
+                        "freinds-sees-him-as": ["good listener", "mature", "beautiful"],
+                        "stranger-sees-him-as": ["outstanding", "respectful", "good leader", "kind", "helpful"],
+						"others": []
+					}]
+				},
+				"backstory & wound": {
+					"story": "Aiko is an orphan, she had been put in an orphanage at a younger age along with her older sister. Aiko loved her sister dearly as she was the only one she had and that cared for her. Her older sister had a dream of becoming a Kabe. That dream was unfortunately never realized after the orphanage caught fire and she was the only one that got caught up in it. Aiko carried the dream of her sister though ended up loving it and wanting to join the corps for herself. As you can see, it was her backstory that caused her to have her one fear. In of the Aiko's missions, she was put in a situation that made her face her fear. She successfully overcomes it.",
+					"link": [{
+						"with?": [{
+                            "event_brouth": ""
+                        }]
+					}]
+				},
+				"relationship": {
+					"story": "Aiko has gotten very close to Naoki and Tojiro, especially Naoki though. Aiko idolizes Ayame and would like to know her better. She never really makes the first move and waits for people to come greet her, though it is the opposite with her close ones, she is pretty talkative with them considering how she is with others. It takes a bit for her to open up but it won't be long before she could consider you an ally. attracted to? NAOKI  :) Lacking? NAOKI :) Vulnerable with? NAOKI :) She tends to avoid stubborn and selfish people. She is turned off by people with bad hygiene. Aiko would want to see her sister again because she was the one that took care of her most when they we're in the orphanage and she just loves her in general. She would never want that one freak, Torture's assistant, to come back to life.",
+					"link": [{
+						"closest": ["Naoki", "tojiro"],
+						"freinds": ["Naoki", "bella", "tamo", "tojiro"],
+						"love?": "Naoki",
+						"major_spent_time": ["Tojiro", "Naoki"],
+						"share_secret_with?": [],
+                        "want_to_be_closer_to": ["big_brother:javascript:used-value"]
+					}]
+				},
+				"education & finances": {
+					"story": "Aiko was well raised in a private school though she isn't a straight A student or anything, average IQ. She is indeed pretty perceptive and she is quite a quick learner, mostly a material and visual learner. She lives comfortably with her knowledge as is. She works for the flower corps and serves her territory. As a very strong and determined woman she is happy to have this job.",
+					"link": [{
+						"with": ["#FreeHK"],
+						"places?": ["flowercorps, a nodejs package: https://www.npmjs.com/package/flower-power-api"]
+					}]
+				},
+				"family": {
+					"story": "",
+					"link": [{
+						"story": "",
+						"members": [],
+                        "decreasead_parents": 1
+					}]
+				}
+			},
+			"personality": {
+				"emotional range": {
+					"story": "Aiko is expressive in a specific way, because she is arrogant, she smirks a lot to show superiority. She fake smiles sometimes when talking to strangers or neighbors. The time she shows true happiness is with her close ones. She rarely shows sadness and it is only visible on her in big situations. True joy is visible on her when she gets talkative and smiles with her teeth. She can get angry and frustrated when things go wrong and shows it by screaming and frowning. She isn't emotional but doesn't hide what she feels, something in between.",
+					"link": [{
+						"what_he_loves?": [],
+						"fellings?": [],
+						"emotional": false,
+						"hiding_feelings": false,
+						"get-easely": ["happy"]
+					}]
+				},
+				"skills & talents": {
+					"story": "A talent that stands out on Aiko from day to day would be her self representation and how perfectionism. She is more flexible than average. She also has this skill of being able to match/link things together, grew off from her making outfits, she's good at solving puzzles and leading small clues to a conclusion. A talent nobody know she has would be singing. Most her talents and skills are a source of pride but she finds singing a source of embarrassment even while no one knows about it.",
+					"link": [{
+						"skills": ["self-representation", "perfectionism", "solving puzzles", "lead small clues", "singing"],
+						"talents": [],
+						"emotional_integer": 0
+					}]
+				}
+			},
+			"characteristics": {
+				"physical": {
+					"physics": {
+						"story": "Aiko is a 18-19 (throught the manga) female, ethnicity not really chosen since she's from an another world (Offelia is an island with multiple villages, she is from the flower shaped village called Flowertopia) but we see her as Japanese. She has black hair and indigo eyes, average body build, not skinny nor fat. Alvina skin tone, height of 5'6 and weights 153 pounds. She wears the corps' Novice level uniform on duty (looks a bit different than the uniform of the higher classes) and is very picky and girly about her clothes and goes for fancy looks off duty, also wears cute jewlery. She carries around her staff.",
+                        "heigth": 167.64,
+						"heigth-inch": "5'6",
+                        "experimental/weigth": 69.39,
+                        "decreptated/age": 18,
+						"link": [{
+							"user_phs <decreptated>": "",
+							"tags": [],
+							"cool": 77,
+							"cute": true,
+							"hot": false,
+							"attractive": false,
+							"skinny": 50,
+							"fat": 50
+						}]
+					}
+
+				},
+				"powers/special-abilities": {
+					"powers": {
+						"link": [{
+							"powers": {
+								"flattering hook": {
+									"name": "air dominance",
+									"name_jp": "制空戦闘機",
+									"description/effects": "In this tenpo aiko throws  knifes on the ground to then  make them float on the air thanks to her telekenisis control",
+									"image": "",
+								    "big_big_big_image": "https://cdn.discordapp.com/attachments/835919271380648006/860254874515931136/Izayoi_sakuya-knife-maid.jpg"
+								},
+								"shattering emission": {
+									"name": "shattering emission",
+									"name_jp": "粉砕エミッション",
+									"description/effects": "This tenpo consist in focusing a high telekinesis energy inside the object to then explode from the inside\n**AKA**:`Atomic explosion`",
+									"image": "",
+									"big_big_big_image": "https://cdn.discordapp.com/attachments/835919271380648006/860257187707879494/Profile-Rock-Damaged-Featured.png"
+								},
+								"push away kinetic blast": {
+									"name": "push away kinetic blast",
+									"name_jp": "キネティックブラストを押しのける",
+									"description/effects": "Consist in letting out a strong blast",
+									"image": "",
+									"big_big_big_image": "https://cdn.discordapp.com/attachments/835919271380648006/860258329762070538/green_energy_blast_fx_by_angrysmack_ddmx826-fullview.jpg"
+								}
+							}
+						}]
+					},
+					"special-abilities": {
+						"story": "",
+						"link": [{
+							"special-abilities": [],
+							"temorary-special-abilities": [],
+							"temporary-gone-special-abilities": [],
+							"removed-special-abilities": [],
+							"temporary-removed-special-abilities": []
+						}]
+					}
+				},
+				"mentally/inside": {
+					"status": {
+						"depressed": false,
+						"lonely": true,
+						"freindly": true,
+                        "single": true
+					},
+					"secrets": {
+						"secrets": [],
+						"story": "Aiko in the beginning of the series has very low confidence though she hides it very very well because of multiple reasons related to her backstory. She would hate for anyone who admires her to know. She overcomes this through her journey with Tojiro and Naoki. Her secret was revealed in one of the fights where she was slowly losing. This secret is a source of pain but also humiliation to her if others knew. She is a secret keeper for mostly all of her close friends. People do trust her and she is trust worthy, mostly because she doesn't find importance in revealing that kind of thing to others.",
+						"link": [{
+							"shared-secrets": [],
+							"shared-secrets-id": [],
+							"shared-secrets-with": ["tojiro", "naoki"],
+							"request-sharing-but-refused": 0,
+							"trust-more": "",
+							"trust-least": ""
+						}]
+					},
+					"want/needs/desire": {
+						"story": "Aiko wants to become a Kabe and be an icon for women. Aiko is lacking control in her tenpo and confidence inner in the beginning of the story. Her dream is to fulfill her want and make her sister happy. She never dares wish for harm to her loved ones. Being busy with all the corps work she has less time for her modeling. If she could make anything appear she would make it her sister or have this one pretty dress that she really wants but can't afford. Verbal encouragement and words of love and affection make her feel better.",
+						"wants": ["become a kabe <that will bring pain for developers>", "make her sister happy"],
+						"needs": [""],
+						"desire": ["never wish pain for loved one"],
+						"links": [{
+							"experimental/chr-related": ["mizuki"] 
+						}]
+					},
+					"interest": {
+						"story": "Aiko is interested in singing and poem writing and does those pretty often. She has a hobby of doodling and shopping for clothes or just making up outfits, she also surfs in the web for hours watching fashion shows or anything of the sort. It is noticeable that she is fashionable but not many people know that she sings or write poems. Aiko loves strawberry shortcake and would love to taste the best of the best. Aiko knows many people but doesn't have many friends. (Quote by Heath Ledger RIP) So, she doesn't mind people knowing about her hobbies but isn't interested on showing them off of course excluding her stunning outfits. She also does yoga and gymnastics weight lifting sometimes too. Aiko likes to bake or doodle animals our outfits as a stress relieving activity. She loves any kind of sport that makes you feel that little burn in the muscles. She'd like to be a model or female gym trainer though ended up deciding to join her territory's corps because of backstory reasons.",
+						"link": [{
+							"interest-array": ["singing", "poem writing", "shopping"],
+							"share-hobbies": "quite",
+							"message-to-api-users": "user `link.length + 1` to get numbers of interest"
+						}]
+					},
+					"flaw-centric": {
+						"story": "Aiko underestimates things a lot and doesn't see the importance in things at first glance which can be detrimental to achieving her goal of becoming Kabe or would be problematic in her relationships. Her flaw of being sassy hides the fact that she has low self-confidence. She is a perfectionist, she can't stand anything that not be perfect and that bothers her in multiple things in he life."
+					}
+				},
+				"stress and pressure": {
+					"story": "Aiko handles things pretty well as she rarely loses calm. She is often concentrated on a task if given and is cool. Though moments where she sees she is the one failing, she starts to slowly lose her not even big enough confidence and unintentionally messes up. Words of encouragement keep her up. At times where things go wrong she shows silent frustration and sadness. She is scared of letting her friends and close ones down.",
+					"stressed-easely": false,
+					"blood-pressure?": false,
+					"link": [{
+						"stress-type-decreptated": [],
+						"linked with": ["saubecity"]
+					}]
+				}
+			},
+			"about me!": {
+				"name": "sumizu-aiko",
+				"age": 17,
+				"gender": "female",
+                "story": "",
+                "link": [{
+                    "linking-relation": []
+                }]
+			},
+			"others": {}
+		}
+	},
+	"higher-ranks": {
+		"shodai-izumi-azura": {},
+		"muga-kuragari": {},
+		"kento-asahi": {},
+		"sumiko-kana": {}
+	},
+	"the 9 kabe": {
+		"toyotomi-seiji": {
+			"characteristics":{
+				"powers/special-abilities": {
+					"powers": {
+						"link": [{
+							"powers": {
+								"devil": {
+									"name": "Devil",
+									"name_jp": "悪魔",
+									"description/effects": "she used to be around a Demon wich then killed her parents when she turned 8, she got fused with the Demon. Since then she's known as the devil and when loses temper can be really dangerouse",
+									"image": "",
+								    "big_big_big_image": "https://cdn.discordapp.com/attachments/835919271380648006/860254874515931136/Izayoi_sakuya-knife-maid.jpg"
+								}
+							}
+						}]
+					},
+					"special-abilities": {
+						"story": "",
+						"link": [{
+							"special-abilities": [],
+							"temorary-special-abilities": [],
+							"temporary-gone-special-abilities": [],
+							"removed-special-abilities": [],
+							"temporary-removed-special-abilities": []
+						}]
+					}
+				}
+			},
+			"about me!": {
+				"name": "toyotomi-seiji",
+				"age": 17,
+				"gender": "male",
+                "story": "",
+                "link": [{
+                    "linking-relation": []
+                }]
+			}
+		},
+		"cadman-bella": {},
+		"zara-adara": {},
+		"tadashi-masaki": {},
+		"kunio-nanako": {},
+		"tanomi-ayame": {},
+		"sato-reino": {},
+		"xena": {},
+		"suiken-mizuiro": {},
+		"mao-zedong": {}
+	},
+	"antagonist": {},
+	"karibukai insei": {}
+}
+

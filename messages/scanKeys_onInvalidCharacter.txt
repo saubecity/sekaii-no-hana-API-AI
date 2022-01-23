@@ -1,0 +1,1 @@
+this character does is not compatible with this function, it should contain the "link" property, switching to mainScan!

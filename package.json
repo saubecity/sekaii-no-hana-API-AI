@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-custom-version",
+  "version": "1.0.0",
+  "description": "Steps:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "electron": "^16.0.3",
+    "node": "^14.17.3"
+  }
+}

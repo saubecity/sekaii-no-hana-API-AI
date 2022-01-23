@@ -1,0 +1,1 @@
+cd C:\Users\TOSHIBA\Videos\NVIDIA\Sekaii-no-hana-API && msg * "welcome to sekaii no hana API v2.1.0 beta process, beford all we would like to inform you about the security risk of revealing bot's token" && echo off timeout 15 && node index.js

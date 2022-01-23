@@ -1,0 +1,14 @@
+{
+    "embeds": {
+        "global-config": {
+            "color": "#ff0084" 
+        }
+    },
+    "files": {
+        "readme": "anything inside of this folder can be deleted if u want to reset the values :)"
+    },
+    "powers": {
+        "isTenpoTag": "tenpo",
+        "isMultipleTempoTag": "tenpos"
+    }
+}

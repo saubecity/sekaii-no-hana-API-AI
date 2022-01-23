@@ -1,0 +1,155 @@
+{
+	"protagonist": {
+		"sato-naoki": {
+			"life of ${chr[i]}": {
+				"identity": {
+					"story": "",
+					"link": [{
+						"define_as": [],
+						"emotional_stuff": [],
+						"passions": [],
+						"others": []
+					}]
+				},
+				"backstory & wound": {
+					"story": "",
+					"link": [{
+						"with?": []
+					}]
+				},
+				"relationship <indev>": {
+					"story": "",
+					"link": [{
+						"closest": [],
+						"freinds": [],
+						"love?": "",
+						"major_spent_time": [],
+						"share_secret_with?": []
+					}]
+				},
+				"education & finances": {
+					"story": "",
+					"link": [{
+						"with": [],
+						"places?": []
+					}]
+				},
+				"family": {
+					"story": "",
+					"link": [{
+						"story": "",
+						"members": []
+					}]
+				}
+			},
+			"personality": {
+				"emotional_range": {
+					"story": "",
+					"link": [{
+						"what_he_loves?": [],
+						"fellings?": []
+					}]
+				},
+				"skills_talents": {
+					"story": "",
+					"link": [{
+						"skills": [],
+						"talents": []
+					}]
+				}
+			},
+			"characteristics": {
+				"physical": {
+					"physics": {
+						"story": "",
+                        "heigth": 0,
+                        "experimental/weigth": 0,
+                        "decreptated/age": 0,
+						"link": [{
+							"user_phs <decreptated>": "",
+							"tags": [],
+							"cool": false,
+							"cute": false,
+							"hot": false,
+							"attractive": false
+						}]
+					}
+
+				},
+				"powers/special-abilities": {
+					"powers": {
+						"story": "",
+						"link": [{
+							"powers": [],
+							"linked_chr": []
+						}]
+					},
+					"special-abilities": {
+						"story": "",
+						"link": [{
+							"special-abilities": [],
+							"temorary-special-abilities": [],
+							"temporary-gone-special-abilities": [],
+							"removed-special-abilities": [],
+							"temporary-removed-special-abilities": []
+						}]
+					}
+				},
+				"mentally/inside": {
+					"status": {
+						"depressed": false,
+						"lonely": false,
+						"freindly": false
+					},
+					"secrets": {
+						"secrets": [],
+						"story": [],
+						"link": [{
+							"shared-secrets": 0,
+							"shared-secrets-id": [],
+							"shared-secrets-with": [],
+							"request-sharing-but-refused": 0,
+							"trust-more": "",
+							"trust-least": ""
+						}]
+					},
+					"want/needs/desire": {
+						"story": "",
+						"wants": [],
+						"needs": [],
+						"desire": [],
+						"links": [{
+							"experimental/chr-related": []
+						}]
+					},
+					"interest": {
+						"story": "",
+						"link": [{
+							"interest-array": [],
+							"message-to-api-users": "user `link.length + 1` to get numbers of interest"
+						}]
+					}
+				},
+				"stress and pressure": {
+					"story": "",
+					"stressed-easely": false,
+					"blood-pressure?": false,
+					"link": [{
+						"stress-type-decreptated": []
+					}]
+				}
+			},
+			"about me!": {
+				"name": "",
+				"age": 0,
+				"gender": "",
+                "story": "",
+                "link": [{
+                    "linking-relation": []
+                }]
+			},
+			"others": {}
+		},
+		"yu_otosaka": "soon"
+	}
+}

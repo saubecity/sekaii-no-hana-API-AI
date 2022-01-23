@@ -1,0 +1,17 @@
+> commit changes
+- you're changes will take place instately
+- everyone with access to #logs (permission code?) can see who made changes
+
+> pull request (comming soon)
+- at least 3 people in the server should vote on the changes in order to be added
+
+> test changes (comming soon)
+- the change will take place instately, and will be reverted to the old ones after 15 minute
+- everyone can see the test
+
+:information_source: what others can see?
+- **@everyone** can see what you change (only for tests/commits)
+- your changes will take effects instantely (only for commits)
+- can see who made these changes (only for commits
+
+:tired_face: the `undoing` feature is very limited/expermimental, you may contact anyone with access to the console in order to undo actions
